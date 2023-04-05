@@ -20,3 +20,6 @@ This asignment is a backend app for a e-commerce webpage using mysql,express, se
 - npm run seed
 - npm start
 - once the server has started you can post,delete or put routes.
+
+Video link
+https://drive.google.com/file/d/1I91PsMfrlxtQPkA5xKVAMTw7PBQTqk4W/view
